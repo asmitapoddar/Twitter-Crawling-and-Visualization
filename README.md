@@ -5,16 +5,16 @@ Crawler to retrieve and visualize user profiles based on gathered statistics
 R 3.4.3
 
 ## Dependencies  
--twitteR  
--ROAuth  
--RCurl  
--plyr  
--dplyr  
--lubridate  
--rtweet  
--ggplot2  
--stringr  
--data.table  
+- twitteR  
+- ROAuth  
+- RCurl  
+- plyr  
+- dplyr  
+- lubridate  
+- rtweet  
+- ggplot2  
+- stringr  
+- data.table  
 
 ## Code
 The following scripts, stored in this repository, have been developed for the crawler.
